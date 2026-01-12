@@ -6,7 +6,7 @@ Tiny Lean to Markdown document generator.
 
 ## Usage
 
-`md MyLeanFile.lean` generates a `MyLeanFile.lean.md` file.
+Run `md MyLeanFile.lean` to generate a `MyLeanFile.lean.md` file.
 
   - Lean code is converted to Markdown code blocks,
 
