@@ -1,6 +1,6 @@
-import Md
+import Lmd
 
-def usage := "Usage: md [LEAN_FILENAME]"
+def usage := "Usage: lmd [LEAN_FILENAME]"
 
 def main (args : List String) : IO UInt32 := do
   match args with
