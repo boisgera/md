@@ -27,13 +27,11 @@ def lemon := "🍋"
 
 ## Usage
 
-The command
+Generate a `SOURCE.lean.md` file with
 
 ```bash
 lmd SOURCE.lean
 ```
-
-generates a `SOURCE.lean.md` file.
 
   - Lean code is converted to Markdown code blocks,
 
