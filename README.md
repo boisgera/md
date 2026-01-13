@@ -1,5 +1,9 @@
 # Lemonade
 
+<p align="center">
+  <img src="images/lemonade.png" alt="Lemonade">
+</p>
+
 [![Build](https://github.com/boisgera/md/workflows/Build/badge.svg)](https://github.com/boisgera/md/actions/workflows/build.yml)
 
 Tiny Lean to Markdown converter.
