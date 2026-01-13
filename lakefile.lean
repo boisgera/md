@@ -7,7 +7,7 @@ package md where
 lean_lib Lmd
 
 @[default_target]
-lean_exe md where
+lean_exe lmd where
   root := `Main
 
 script install do
